@@ -1,0 +1,6 @@
+outs:
+- md5: 98cd82b263c1232b72f49075a1dfbc24.dir
+  size: 1556397762
+  nfiles: 46217
+  hash: md5
+  path: dog-and-cat-classification-dataset
