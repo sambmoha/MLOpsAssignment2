@@ -1,0 +1,7 @@
+Epoch 1/4 | train_loss=0.5625 train_acc=0.6889 | val_loss=0.2872 val_acc=0.8978 | lr=3.00e-04 | sec=28.4
+Epoch 2/4 | train_loss=0.3564 train_acc=0.8667 | val_loss=0.2259 val_acc=0.9200 | lr=6.00e-05 | sec=44.1
+Epoch 3/4 | train_loss=0.2953 train_acc=0.9056 | val_loss=0.1987 val_acc=0.9244 | lr=6.00e-05 | sec=44.1
+Epoch 4/4 | train_loss=0.2489 train_acc=0.9189 | val_loss=0.1948 val_acc=0.9322 | lr=6.00e-05 | sec=43.9
+Best val acc: 0.9322
+Test loss: 0.1816 | Test acc: 0.9322
+Artifacts saved to: artifacts_900

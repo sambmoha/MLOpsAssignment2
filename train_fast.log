@@ -1,0 +1,2 @@
+Epoch 1/6 | train_loss=0.2623 train_acc=0.8953 | val_loss=0.0983 val_acc=0.9609 | lr=3.00e-04 | sec=179.9
+Epoch 2/6 | train_loss=0.1396 train_acc=0.9433 | val_loss=0.1002 val_acc=0.9585 | lr=6.00e-05 | sec=388.1

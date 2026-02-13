@@ -1,0 +1,20 @@
+{
+  "classes": [
+    "Cat",
+    "Dog"
+  ],
+  "class_to_idx": {
+    "Cat": 0,
+    "Dog": 1
+  },
+  "train_size": 678,
+  "val_size": 41,
+  "test_size": 42,
+  "class_counts": {
+    "Cat": 399,
+    "Dog": 279
+  },
+  "arch": "resnet18",
+  "best_val_acc": 0.7073170731707317,
+  "test_acc": 0.5952380952380952
+}

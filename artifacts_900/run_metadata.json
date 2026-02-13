@@ -1,0 +1,20 @@
+{
+  "classes": [
+    "Cat",
+    "Dog"
+  ],
+  "class_to_idx": {
+    "Cat": 0,
+    "Dog": 1
+  },
+  "train_size": 900,
+  "val_size": 900,
+  "test_size": 900,
+  "class_counts": {
+    "Cat": 539,
+    "Dog": 361
+  },
+  "arch": "mobilenet_v3_small",
+  "best_val_acc": 0.9322222222222222,
+  "test_acc": 0.9322222222222222
+}

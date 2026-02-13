@@ -1,8 +1,4 @@
 .DS_Store
 __pycache__/
 *.pyc
-mlruns/
-/artifacts
 .venv/
-artifacts_*/
-*.log

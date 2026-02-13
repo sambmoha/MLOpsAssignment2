@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/sambitmohanty/Desktop/Cursor Code/MLOps1/code1/mlruns/108956079207861598/890458c14bd444ba945308c6faec2125/artifacts
+end_time: 1770984815858
+entry_point_name: ''
+experiment_id: '108956079207861598'
+lifecycle_stage: active
+run_id: 890458c14bd444ba945308c6faec2125
+run_name: capable-auk-759
+run_uuid: 890458c14bd444ba945308c6faec2125
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770984770442
+status: 3
+tags: []
+user_id: sambitmohanty
